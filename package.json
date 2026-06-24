@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /presentation-bd-foret/",
     "dev": "slidev --open",
     "export": "slidev export",
     "dev_simple": "slidev"
